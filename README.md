@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/Atulkumar58/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/Atulkumar58/LeetCode/tree/master/0874-walking-robot-simulation) |
+## Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
