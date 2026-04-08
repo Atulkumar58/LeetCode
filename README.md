@@ -62,4 +62,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Atulkumar58/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## Two Pointers
+|  |
+| ------- |
+| [3884-first-matching-character-from-both-ends](https://github.com/Atulkumar58/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
+## String
+|  |
+| ------- |
+| [3884-first-matching-character-from-both-ends](https://github.com/Atulkumar58/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 <!---LeetCode Topics End-->
