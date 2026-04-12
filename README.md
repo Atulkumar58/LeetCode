@@ -75,5 +75,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Atulkumar58/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Atulkumar58/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Atulkumar58/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 <!---LeetCode Topics End-->
