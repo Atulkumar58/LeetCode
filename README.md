@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/Atulkumar58/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Atulkumar58/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Atulkumar58/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Atulkumar58/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Atulkumar58/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -112,10 +113,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Atulkumar58/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Atulkumar58/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Atulkumar58/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Atulkumar58/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Trie
 |  |
@@ -129,4 +132,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Atulkumar58/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Atulkumar58/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Atulkumar58/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
