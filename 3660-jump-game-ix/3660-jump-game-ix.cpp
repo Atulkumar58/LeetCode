@@ -1,41 +1,28 @@
 class Solution {
 public:
     vector<int> maxValue(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> ans(n, 0);
-
-        // [value, index]
-        using Item = pair<int, int>;
-        vector<Item> prevMax(n);
-
-        Item prev = {INT_MIN, -1};
-        for (int i = 0; i < n; ++i) {
-            if (nums[i] > prev.first) {
-                prev = {nums[i], i};
-            }
-            prevMax[i] = prev;
+        int n= nums.size();
+        vector<int> max_val(n);
+        int maxi=INT_MIN;
+        for(int i=0;  i<n; i++){
+            maxi= max(maxi, nums[i]);
+            max_val[i]= maxi;
+        }
+        int mini= INT_MAX;
+        vector<int> min_val(n);
+        for(int i= n-1; i>=0; i--){
+            min_val[i]= mini;
+            mini= min(mini, nums[i]);
         }
 
-        auto process = [&](auto& self, int r, int rightMin,
-                           int rightMax) -> void {
-            auto [pMax, pivotIndex] = prevMax[r];
-            int currMax = pMax <= rightMin ? pMax : rightMax;
-
-            int nextRightMin = min(pMax, rightMin);
-            for (int i = pivotIndex; i <= r; ++i) {
-                ans[i] = currMax;
-                nextRightMin = min(nextRightMin, nums[i]);
+        vector<int> ans(n);
+        int buffer=0;
+        for(int i=n-1; i>=0; i--){
+            if(min_val[i] >= max_val[i]){
+                buffer= max_val[i];
             }
-
-            if (pivotIndex == 0) {
-                return;
-            }
-
-            self(self, pivotIndex - 1, nextRightMin, currMax);
-        };
-
-        process(process, n - 1, INT_MAX, 0);
-
+            ans[i]= buffer;
+        }
         return ans;
     }
 };
