@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Atulkumar58/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Atulkumar58/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Atulkumar58/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Atulkumar58/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Atulkumar58/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Atulkumar58/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Atulkumar58/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/Atulkumar58/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/Atulkumar58/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Atulkumar58/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2751-robot-collisions](https://github.com/Atulkumar58/LeetCode/tree/master/2751-robot-collisions) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Atulkumar58/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Stack
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Atulkumar58/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Atulkumar58/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Atulkumar58/LeetCode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Atulkumar58/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
