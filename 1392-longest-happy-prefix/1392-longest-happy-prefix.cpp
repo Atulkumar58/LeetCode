@@ -18,9 +18,9 @@ public:
             }
             i++;
         }
-        for(int i: kmp){
-            cout<<i<<" ";
-        }
+        // for(int i: kmp){
+        //     cout<<i<<" ";
+        // }
         return s.substr(0,kmp[n-1]);
     }
 };
