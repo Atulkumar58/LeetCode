@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2069-walking-robot-simulation-ii](https://github.com/Atulkumar58/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Atulkumar58/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2751-robot-collisions](https://github.com/Atulkumar58/LeetCode/tree/master/2751-robot-collisions) |
+| [3612-process-string-with-special-operations-i](https://github.com/Atulkumar58/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Atulkumar58/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Stack
 |  |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/Atulkumar58/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Atulkumar58/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Dynamic Programming
 |  |
