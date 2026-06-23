@@ -2,12 +2,12 @@ class Solution {
 public:
     const int mod= 1e9+7;
     int zigZagArrays(int n, int l, int r) {
-        vector<long long> dp(r-l+1, 1);
+        vector<int> dp(r-l+1, 1);
         for(int i=1; i<n; i++){
             long long sum=0;
             if(i%2 == 1){
-                for(long long& j: dp){
-                    long long temp= j;
+                for(int& j: dp){
+                    int temp= j;
                     j=sum;
                     sum+= temp;
                     sum%= mod;
