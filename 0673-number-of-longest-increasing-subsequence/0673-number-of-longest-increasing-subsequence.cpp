@@ -23,7 +23,7 @@ public:
         int minlength = 0;
         int freq = 0;
         for(int i=0; i<n; i++){
-            cout<<dp[i].first<<" "<<dp[i].second<<endl;
+            // cout<<dp[i].first<<" "<<dp[i].second<<endl;
             if(minlength < dp[i].first){
                 minlength = dp[i].first;
                 freq = dp[i].second;
