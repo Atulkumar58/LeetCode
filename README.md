@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Atulkumar58/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Atulkumar58/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Atulkumar58/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atulkumar58/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/Atulkumar58/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Atulkumar58/LeetCode/tree/master/0056-merge-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Atulkumar58/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Atulkumar58/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1840-maximum-building-height](https://github.com/Atulkumar58/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Atulkumar58/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Atulkumar58/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Atulkumar58/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Atulkumar58/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Atulkumar58/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
