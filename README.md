@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3499-maximize-active-section-with-trade-i](https://github.com/Atulkumar58/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Atulkumar58/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Atulkumar58/LeetCode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Atulkumar58/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Dynamic Programming
 |  |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-total-distance-traveled](https://github.com/Atulkumar58/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Atulkumar58/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Atulkumar58/LeetCode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3660-jump-game-ix](https://github.com/Atulkumar58/LeetCode/tree/master/3660-jump-game-ix) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Atulkumar58/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Atulkumar58/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Atulkumar58/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Atulkumar58/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Atulkumar58/LeetCode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Atulkumar58/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Depth-First Search
@@ -343,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-jump-game-vii](https://github.com/Atulkumar58/LeetCode/tree/master/1871-jump-game-vii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Atulkumar58/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Atulkumar58/LeetCode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Atulkumar58/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Atulkumar58/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
