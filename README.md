@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0968-binary-tree-cameras](https://github.com/Atulkumar58/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Atulkumar58/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Atulkumar58/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0968-binary-tree-cameras](https://github.com/Atulkumar58/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Atulkumar58/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Design
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atulkumar58/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0788-rotated-digits](https://github.com/Atulkumar58/LeetCode/tree/master/0788-rotated-digits) |
+| [0968-binary-tree-cameras](https://github.com/Atulkumar58/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Atulkumar58/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Atulkumar58/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Atulkumar58/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -268,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0827-making-a-large-island](https://github.com/Atulkumar58/LeetCode/tree/master/0827-making-a-large-island) |
+| [0968-binary-tree-cameras](https://github.com/Atulkumar58/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1306-jump-game-iii](https://github.com/Atulkumar58/LeetCode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Atulkumar58/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
