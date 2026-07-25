@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Atulkumar58/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Atulkumar58/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Atulkumar58/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Atulkumar58/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Atulkumar58/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-total-distance-traveled](https://github.com/Atulkumar58/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Atulkumar58/LeetCode/tree/master/2751-robot-collisions) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Atulkumar58/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3536-maximum-product-of-two-digits](https://github.com/Atulkumar58/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Atulkumar58/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
