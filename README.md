@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/Atulkumar58/LeetCode/tree/master/2540-minimum-common-value) |
 | [2751-robot-collisions](https://github.com/Atulkumar58/LeetCode/tree/master/2751-robot-collisions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3187-peaks-in-array](https://github.com/Atulkumar58/LeetCode/tree/master/3187-peaks-in-array) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0968-binary-tree-cameras](https://github.com/Atulkumar58/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Atulkumar58/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Atulkumar58/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search Tree
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Atulkumar58/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1486-xor-operation-in-an-array](https://github.com/Atulkumar58/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Atulkumar58/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Atulkumar58/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -267,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Atulkumar58/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1871-jump-game-vii](https://github.com/Atulkumar58/LeetCode/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/Atulkumar58/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Atulkumar58/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/Atulkumar58/LeetCode/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -299,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Atulkumar58/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Atulkumar58/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Atulkumar58/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Atulkumar58/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Union-Find
@@ -458,4 +463,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Atulkumar58/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Memoization
+|  |
+| ------- |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 <!---LeetCode Topics End-->
