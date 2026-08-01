@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0406-queue-reconstruction-by-height](https://github.com/Atulkumar58/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Atulkumar58/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Atulkumar58/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/Atulkumar58/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Atulkumar58/LeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atulkumar58/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0827-making-a-large-island](https://github.com/Atulkumar58/LeetCode/tree/master/0827-making-a-large-island) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/Atulkumar58/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Atulkumar58/LeetCode/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/Atulkumar58/LeetCode/tree/master/0263-ugly-number) |
+| [0486-predict-the-winner](https://github.com/Atulkumar58/LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Atulkumar58/LeetCode/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Atulkumar58/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Atulkumar58/LeetCode/tree/master/1486-xor-operation-in-an-array) |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Atulkumar58/LeetCode/tree/master/0486-predict-the-winner) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atulkumar58/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0788-rotated-digits](https://github.com/Atulkumar58/LeetCode/tree/master/0788-rotated-digits) |
 | [0968-binary-tree-cameras](https://github.com/Atulkumar58/LeetCode/tree/master/0968-binary-tree-cameras) |
@@ -478,4 +481,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Atulkumar58/LeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Atulkumar58/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
