@@ -1,9 +1,9 @@
 class Solution {
 public:
-    vector<int> dp;
+    
     string stoneGameIII(vector<int>& stoneValue) {
         int n= stoneValue.size();
-        dp.resize(n+3, INT_MIN);
+        vector<int> dp(n+1, INT_MIN);
         dp[n]= 0;
         for(int i= n-1; i>=0; i--){
             int sum=0;
