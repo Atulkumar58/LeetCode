@@ -507,4 +507,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Atulkumar58/LeetCode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Atulkumar58/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
