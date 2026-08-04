@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Atulkumar58/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Atulkumar58/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Atulkumar58/LeetCode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Hash Table
 |  |
 | ------- |
