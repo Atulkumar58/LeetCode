@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Atulkumar58/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/Atulkumar58/LeetCode/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Atulkumar58/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Atulkumar58/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Atulkumar58/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/Atulkumar58/LeetCode/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Atulkumar58/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search Tree
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Atulkumar58/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Atulkumar58/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/Atulkumar58/LeetCode/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Atulkumar58/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Union-Find
@@ -439,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3477-fruits-into-baskets-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/Atulkumar58/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/Atulkumar58/LeetCode/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Atulkumar58/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -455,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/Atulkumar58/LeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atulkumar58/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3187-peaks-in-array](https://github.com/Atulkumar58/LeetCode/tree/master/3187-peaks-in-array) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/Atulkumar58/LeetCode/tree/master/3515-shortest-path-in-a-weighted-tree) |
 ## Ordered Set
 |  |
 | ------- |
