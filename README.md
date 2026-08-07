@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Atulkumar58/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Atulkumar58/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Atulkumar58/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Atulkumar58/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-longest-common-suffix-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3136-valid-word](https://github.com/Atulkumar58/LeetCode/tree/master/3136-valid-word) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Atulkumar58/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Atulkumar58/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/Atulkumar58/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Atulkumar58/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Atulkumar58/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Atulkumar58/LeetCode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Atulkumar58/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -406,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Atulkumar58/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Atulkumar58/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
@@ -521,4 +525,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0175-combine-two-tables](https://github.com/Atulkumar58/LeetCode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Atulkumar58/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Atulkumar58/LeetCode/tree/master/0182-duplicate-emails) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
