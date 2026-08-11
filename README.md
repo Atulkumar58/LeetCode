@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Atulkumar58/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Atulkumar58/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/Atulkumar58/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Atulkumar58/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0827-making-a-large-island](https://github.com/Atulkumar58/LeetCode/tree/master/0827-making-a-large-island) |
 | [0968-binary-tree-cameras](https://github.com/Atulkumar58/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1306-jump-game-iii](https://github.com/Atulkumar58/LeetCode/tree/master/1306-jump-game-iii) |
