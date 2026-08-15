@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Atulkumar58/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/Atulkumar58/LeetCode/tree/master/3660-jump-game-ix) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Atulkumar58/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Atulkumar58/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Atulkumar58/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Atulkumar58/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Atulkumar58/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3878-count-good-subarrays](https://github.com/Atulkumar58/LeetCode/tree/master/3878-count-good-subarrays) |
 ## Sorting
 |  |
