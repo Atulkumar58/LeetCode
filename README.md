@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/Atulkumar58/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Atulkumar58/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Atulkumar58/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/Atulkumar58/LeetCode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Atulkumar58/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Atulkumar58/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Atulkumar58/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/Atulkumar58/LeetCode/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/Atulkumar58/LeetCode/tree/master/1840-maximum-building-height) |
 | [1927-sum-game](https://github.com/Atulkumar58/LeetCode/tree/master/1927-sum-game) |
+| [2029-stone-game-ix](https://github.com/Atulkumar58/LeetCode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Atulkumar58/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Atulkumar58/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Atulkumar58/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Atulkumar58/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/Atulkumar58/LeetCode/tree/master/1927-sum-game) |
+| [2029-stone-game-ix](https://github.com/Atulkumar58/LeetCode/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Atulkumar58/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Atulkumar58/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Atulkumar58/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -406,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Atulkumar58/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/Atulkumar58/LeetCode/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/Atulkumar58/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Atulkumar58/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -574,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/Atulkumar58/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Atulkumar58/LeetCode/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/Atulkumar58/LeetCode/tree/master/1927-sum-game) |
+| [2029-stone-game-ix](https://github.com/Atulkumar58/LeetCode/tree/master/2029-stone-game-ix) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -606,15 +611,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1140-stone-game-ii](https://github.com/Atulkumar58/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Atulkumar58/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Atulkumar58/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Atulkumar58/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Atulkumar58/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Atulkumar58/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Atulkumar58/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Atulkumar58/LeetCode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
