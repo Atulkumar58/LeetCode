@@ -604,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0585-investments-in-2016](https://github.com/Atulkumar58/LeetCode/tree/master/0585-investments-in-2016) |
 | [0596-classes-with-at-least-5-students](https://github.com/Atulkumar58/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Atulkumar58/LeetCode/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/Atulkumar58/LeetCode/tree/master/0610-triangle-judgement) |
 | [1068-product-sales-analysis-i](https://github.com/Atulkumar58/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Atulkumar58/LeetCode/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Atulkumar58/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
