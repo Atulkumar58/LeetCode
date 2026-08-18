@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Atulkumar58/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Atulkumar58/LeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atulkumar58/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0679-24-game](https://github.com/Atulkumar58/LeetCode/tree/master/0679-24-game) |
 | [0827-making-a-large-island](https://github.com/Atulkumar58/LeetCode/tree/master/0827-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/Atulkumar58/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/Atulkumar58/LeetCode/tree/master/0877-stone-game) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/Atulkumar58/LeetCode/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/Atulkumar58/LeetCode/tree/master/0486-predict-the-winner) |
 | [0640-solve-the-equation](https://github.com/Atulkumar58/LeetCode/tree/master/0640-solve-the-equation) |
+| [0679-24-game](https://github.com/Atulkumar58/LeetCode/tree/master/0679-24-game) |
 | [0788-rotated-digits](https://github.com/Atulkumar58/LeetCode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Atulkumar58/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Atulkumar58/LeetCode/tree/master/1140-stone-game-ii) |
@@ -611,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/Atulkumar58/LeetCode/tree/master/0679-24-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linear Algebra
 |  |
