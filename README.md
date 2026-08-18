@@ -602,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0197-rising-temperature](https://github.com/Atulkumar58/LeetCode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Atulkumar58/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0585-investments-in-2016](https://github.com/Atulkumar58/LeetCode/tree/master/0585-investments-in-2016) |
+| [0596-classes-with-at-least-5-students](https://github.com/Atulkumar58/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Atulkumar58/LeetCode/tree/master/0607-sales-person) |
 | [1068-product-sales-analysis-i](https://github.com/Atulkumar58/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Atulkumar58/LeetCode/tree/master/1075-project-employees-i) |
