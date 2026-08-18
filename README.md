@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/Atulkumar58/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Atulkumar58/LeetCode/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/Atulkumar58/LeetCode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Atulkumar58/LeetCode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Atulkumar58/LeetCode/tree/master/0486-predict-the-winner) |
 | [0640-solve-the-equation](https://github.com/Atulkumar58/LeetCode/tree/master/0640-solve-the-equation) |
 | [0679-24-game](https://github.com/Atulkumar58/LeetCode/tree/master/0679-24-game) |
@@ -579,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Atulkumar58/LeetCode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Atulkumar58/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Atulkumar58/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Atulkumar58/LeetCode/tree/master/1140-stone-game-ii) |
@@ -626,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Atulkumar58/LeetCode/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/Atulkumar58/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Atulkumar58/LeetCode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Atulkumar58/LeetCode/tree/master/2029-stone-game-ix) |
@@ -638,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Atulkumar58/LeetCode/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/Atulkumar58/LeetCode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Atulkumar58/LeetCode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
@@ -647,5 +651,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Atulkumar58/LeetCode/tree/master/0292-nim-game) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Atulkumar58/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Atulkumar58/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
