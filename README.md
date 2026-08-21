@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/Atulkumar58/LeetCode/tree/master/0065-valid-number) |
 | [0093-restore-ip-addresses](https://github.com/Atulkumar58/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0214-shortest-palindrome](https://github.com/Atulkumar58/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0640-solve-the-equation](https://github.com/Atulkumar58/LeetCode/tree/master/0640-solve-the-equation) |
 | [0796-rotate-string](https://github.com/Atulkumar58/LeetCode/tree/master/0796-rotate-string) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Atulkumar58/LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Atulkumar58/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/Atulkumar58/LeetCode/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Number Theory
@@ -522,10 +524,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Atulkumar58/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Atulkumar58/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Segment Tree
 |  |
@@ -692,4 +696,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Atulkumar58/LeetCode/tree/master/0292-nim-game) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Atulkumar58/LeetCode/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Atulkumar58/LeetCode/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Atulkumar58/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
