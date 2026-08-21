@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Atulkumar58/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Atulkumar58/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Atulkumar58/LeetCode/tree/master/0056-merge-intervals) |
+| [0140-word-break-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0140-word-break-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/Atulkumar58/LeetCode/tree/master/0174-dungeon-game) |
 | [0307-range-sum-query-mutable](https://github.com/Atulkumar58/LeetCode/tree/master/0307-range-sum-query-mutable) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Atulkumar58/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0140-word-break-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0140-word-break-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Atulkumar58/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0874-walking-robot-simulation](https://github.com/Atulkumar58/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/Atulkumar58/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/Atulkumar58/LeetCode/tree/master/0065-valid-number) |
 | [0093-restore-ip-addresses](https://github.com/Atulkumar58/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0140-word-break-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0140-word-break-ii) |
 | [0214-shortest-palindrome](https://github.com/Atulkumar58/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0640-solve-the-equation](https://github.com/Atulkumar58/LeetCode/tree/master/0640-solve-the-equation) |
 | [0796-rotate-string](https://github.com/Atulkumar58/LeetCode/tree/master/0796-rotate-string) |
@@ -354,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0140-word-break-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/Atulkumar58/LeetCode/tree/master/0174-dungeon-game) |
 | [0486-predict-the-winner](https://github.com/Atulkumar58/LeetCode/tree/master/0486-predict-the-winner) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atulkumar58/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -429,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0140-word-break-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Atulkumar58/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Atulkumar58/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Atulkumar58/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -601,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0140-word-break-ii) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## Recursion
 |  |
@@ -654,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/Atulkumar58/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0140-word-break-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0140-word-break-ii) |
 | [0679-24-game](https://github.com/Atulkumar58/LeetCode/tree/master/0679-24-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linear Algebra
