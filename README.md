@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Atulkumar58/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3187-peaks-in-array](https://github.com/Atulkumar58/LeetCode/tree/master/3187-peaks-in-array) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Atulkumar58/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Atulkumar58/LeetCode/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Atulkumar58/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-total-distance-traveled](https://github.com/Atulkumar58/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Atulkumar58/LeetCode/tree/master/2751-robot-collisions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Atulkumar58/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Atulkumar58/LeetCode/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Atulkumar58/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Atulkumar58/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Atulkumar58/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/Atulkumar58/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Atulkumar58/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Atulkumar58/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Atulkumar58/LeetCode/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Atulkumar58/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Atulkumar58/LeetCode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
