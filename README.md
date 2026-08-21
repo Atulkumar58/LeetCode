@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Atulkumar58/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Atulkumar58/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0874-walking-robot-simulation](https://github.com/Atulkumar58/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/Atulkumar58/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Atulkumar58/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/Atulkumar58/LeetCode/tree/master/0065-valid-number) |
 | [0093-restore-ip-addresses](https://github.com/Atulkumar58/LeetCode/tree/master/0093-restore-ip-addresses) |
@@ -497,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Atulkumar58/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Atulkumar58/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Atulkumar58/LeetCode/tree/master/1871-jump-game-vii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Atulkumar58/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
