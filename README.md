@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/Atulkumar58/LeetCode/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/Atulkumar58/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0481-magical-string](https://github.com/Atulkumar58/LeetCode/tree/master/0481-magical-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Atulkumar58/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Atulkumar58/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Atulkumar58/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/Atulkumar58/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0140-word-break-ii) |
 | [0214-shortest-palindrome](https://github.com/Atulkumar58/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0481-magical-string](https://github.com/Atulkumar58/LeetCode/tree/master/0481-magical-string) |
 | [0640-solve-the-equation](https://github.com/Atulkumar58/LeetCode/tree/master/0640-solve-the-equation) |
 | [0796-rotate-string](https://github.com/Atulkumar58/LeetCode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0940-distinct-subsequences-ii) |
