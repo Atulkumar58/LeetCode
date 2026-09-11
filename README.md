@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Atulkumar58/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/Atulkumar58/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Atulkumar58/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Atulkumar58/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Atulkumar58/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Atulkumar58/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3597-partition-string](https://github.com/Atulkumar58/LeetCode/tree/master/3597-partition-string) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Atulkumar58/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -555,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1291-sequential-digits](https://github.com/Atulkumar58/LeetCode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Atulkumar58/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Atulkumar58/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Atulkumar58/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Atulkumar58/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -652,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0233-number-of-digit-one](https://github.com/Atulkumar58/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/Atulkumar58/LeetCode/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Atulkumar58/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
