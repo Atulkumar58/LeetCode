@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/Atulkumar58/LeetCode/tree/master/0493-reverse-pairs) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Atulkumar58/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Atulkumar58/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2540-minimum-common-value](https://github.com/Atulkumar58/LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Atulkumar58/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/Atulkumar58/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Atulkumar58/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Atulkumar58/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Atulkumar58/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Atulkumar58/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Atulkumar58/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Atulkumar58/LeetCode/tree/master/2833-furthest-point-from-origin) |
@@ -540,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/Atulkumar58/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/Atulkumar58/LeetCode/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Atulkumar58/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Number Theory
 |  |
 | ------- |
@@ -577,11 +580,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Atulkumar58/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Atulkumar58/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Atulkumar58/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Atulkumar58/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Segment Tree
 |  |
 | ------- |
@@ -762,11 +767,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Atulkumar58/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Atulkumar58/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Atulkumar58/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Atulkumar58/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Topological Sort
 |  |
 | ------- |
@@ -783,4 +790,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Atulkumar58/LeetCode/tree/master/0141-linked-list-cycle) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Atulkumar58/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
