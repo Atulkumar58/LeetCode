@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Atulkumar58/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Atulkumar58/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Atulkumar58/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1871-jump-game-vii](https://github.com/Atulkumar58/LeetCode/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/Atulkumar58/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Atulkumar58/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -717,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0140-word-break-ii) |
 | [0679-24-game](https://github.com/Atulkumar58/LeetCode/tree/master/0679-24-game) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Atulkumar58/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linear Algebra
 |  |
