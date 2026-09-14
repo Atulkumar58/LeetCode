@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0640-solve-the-equation](https://github.com/Atulkumar58/LeetCode/tree/master/0640-solve-the-equation) |
 | [0679-24-game](https://github.com/Atulkumar58/LeetCode/tree/master/0679-24-game) |
 | [0788-rotated-digits](https://github.com/Atulkumar58/LeetCode/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/Atulkumar58/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Atulkumar58/LeetCode/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/Atulkumar58/LeetCode/tree/master/0932-beautiful-array) |
 | [1140-stone-game-ii](https://github.com/Atulkumar58/LeetCode/tree/master/1140-stone-game-ii) |
@@ -493,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Atulkumar58/LeetCode/tree/master/0836-rectangle-overlap) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Atulkumar58/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Breadth-First Search
 |  |
