@@ -662,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Atulkumar58/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Atulkumar58/LeetCode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Atulkumar58/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2076-process-restricted-friend-requests](https://github.com/Atulkumar58/LeetCode/tree/master/2076-process-restricted-friend-requests) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Atulkumar58/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Atulkumar58/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -810,6 +811,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Atulkumar58/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Treap
 |  |
 | ------- |
