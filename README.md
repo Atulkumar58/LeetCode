@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-largest-component-size-by-common-factor](https://github.com/Atulkumar58/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/Atulkumar58/LeetCode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Atulkumar58/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Atulkumar58/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Atulkumar58/LeetCode/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Atulkumar58/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/Atulkumar58/LeetCode/tree/master/1510-stone-game-iv) |
@@ -513,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Atulkumar58/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Atulkumar58/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Atulkumar58/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Breadth-First Search
 |  |
