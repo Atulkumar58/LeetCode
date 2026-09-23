@@ -482,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Atulkumar58/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Atulkumar58/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Atulkumar58/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Atulkumar58/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Atulkumar58/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Atulkumar58/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Atulkumar58/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Atulkumar58/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Atulkumar58/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/Atulkumar58/LeetCode/tree/master/2076-process-restricted-friend-requests) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Atulkumar58/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Atulkumar58/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -535,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-jump-game-iv](https://github.com/Atulkumar58/LeetCode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Atulkumar58/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Atulkumar58/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Atulkumar58/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Atulkumar58/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -675,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Atulkumar58/LeetCode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Atulkumar58/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Atulkumar58/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Atulkumar58/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/Atulkumar58/LeetCode/tree/master/2076-process-restricted-friend-requests) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Atulkumar58/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
