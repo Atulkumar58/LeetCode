@@ -1,39 +1,37 @@
 class Solution {
 public:
-    int countCompleteComponents(int n, vector<vector<int>>& edges) {
-        vector<vector<int>> A(n);
+    vector<bool> vis;
+    vector<vector<int>> adj;
+    int x;
+    int dfsEdges(int i){
+        if(vis[i]) return 0;
+        vis[i]=1;
+        x++;
 
-        for (auto& e : edges) {
-            int u = e[0], v = e[1];
-            A[u].push_back(v);
-            A[v].push_back(u);
+        int ans= adj[i].size();
+        for(int j: adj[i]){
+            ans+= dfsEdges(j);
         }
-
-        bitset<51> vis;
-        int res = 0;
-
-        for (int i = 0; i < n; i++) {
-            bool state = vis.test(i);
-
-            if (!state) {
-                int V = 0, E = 0;
-
-                auto dfs = [&](auto& self, int x) -> void {
-                    V++;
-                    E += A[x].size();
-                    vis.set(x);
-
-                    for (auto& state : A[x])
-                        if (!vis.test(state))
-                            self(self, state);
-                };
-
-                dfs(dfs, i);
-
-                res += E == V * (V - 1);
+        return ans;
+    }
+    int countCompleteComponents(int n, vector<vector<int>>& edges) {
+        adj.clear();
+        adj.resize(n);
+        for(auto& i: edges){
+            adj[i[0]].push_back(i[1]);
+            adj[i[1]].push_back(i[0]);
+        }
+        vis.resize(n, 0);
+        int ans=0;
+        for(int i=0; i<n; i++){
+            if(!vis[i]){
+                x=0;
+                int t= dfsEdges(i);
+                if(t== x*(x-1)){
+                    ans++;
+                }
             }
         }
-
-        return res;
+        return ans;
     }
 };
