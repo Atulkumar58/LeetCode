@@ -542,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/Atulkumar58/LeetCode/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/Atulkumar58/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0827-making-a-large-island](https://github.com/Atulkumar58/LeetCode/tree/master/0827-making-a-large-island) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Atulkumar58/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1306-jump-game-iii](https://github.com/Atulkumar58/LeetCode/tree/master/1306-jump-game-iii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Atulkumar58/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1345-jump-game-iv](https://github.com/Atulkumar58/LeetCode/tree/master/1345-jump-game-iv) |
@@ -690,6 +691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Atulkumar58/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/Atulkumar58/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Atulkumar58/LeetCode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Atulkumar58/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Atulkumar58/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Atulkumar58/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
