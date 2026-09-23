@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Atulkumar58/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/Atulkumar58/LeetCode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Atulkumar58/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Atulkumar58/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Atulkumar58/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Atulkumar58/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Atulkumar58/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -674,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Atulkumar58/LeetCode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Atulkumar58/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Atulkumar58/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/Atulkumar58/LeetCode/tree/master/2076-process-restricted-friend-requests) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Atulkumar58/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Atulkumar58/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
@@ -758,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0140-word-break-ii) |
 | [0679-24-game](https://github.com/Atulkumar58/LeetCode/tree/master/0679-24-game) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Atulkumar58/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Atulkumar58/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linear Algebra
 |  |
