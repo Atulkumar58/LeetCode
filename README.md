@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/Atulkumar58/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0687-longest-univalue-path](https://github.com/Atulkumar58/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Atulkumar58/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Atulkumar58/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0450-delete-node-in-a-bst](https://github.com/Atulkumar58/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0493-reverse-pairs](https://github.com/Atulkumar58/LeetCode/tree/master/0493-reverse-pairs) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Atulkumar58/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Atulkumar58/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/Atulkumar58/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/Atulkumar58/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Atulkumar58/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Atulkumar58/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
