@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2751-robot-collisions](https://github.com/Atulkumar58/LeetCode/tree/master/2751-robot-collisions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Atulkumar58/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Atulkumar58/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Atulkumar58/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/Atulkumar58/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Atulkumar58/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Atulkumar58/LeetCode/tree/master/2751-robot-collisions) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Atulkumar58/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3878-count-good-subarrays](https://github.com/Atulkumar58/LeetCode/tree/master/3878-count-good-subarrays) |
 ## Tree
 |  |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2223-sum-of-scores-of-built-strings](https://github.com/Atulkumar58/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2540-minimum-common-value](https://github.com/Atulkumar58/LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Atulkumar58/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Atulkumar58/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Atulkumar58/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -244,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Atulkumar58/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Atulkumar58/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3878-count-good-subarrays](https://github.com/Atulkumar58/LeetCode/tree/master/3878-count-good-subarrays) |
 ## Binary Tree
 |  |
@@ -681,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/Atulkumar58/LeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atulkumar58/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Atulkumar58/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Atulkumar58/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3187-peaks-in-array](https://github.com/Atulkumar58/LeetCode/tree/master/3187-peaks-in-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/Atulkumar58/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
@@ -701,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0406-queue-reconstruction-by-height](https://github.com/Atulkumar58/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/Atulkumar58/LeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atulkumar58/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Atulkumar58/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3187-peaks-in-array](https://github.com/Atulkumar58/LeetCode/tree/master/3187-peaks-in-array) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/Atulkumar58/LeetCode/tree/master/3515-shortest-path-in-a-weighted-tree) |
 ## Ordered Set
@@ -719,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Atulkumar58/LeetCode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Atulkumar58/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Atulkumar58/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
