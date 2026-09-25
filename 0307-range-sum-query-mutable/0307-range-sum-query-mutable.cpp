@@ -1,47 +1,58 @@
 class NumArray {
 public:
-    vector<int> segmentTree;
     vector<int> nums;
-    int buildTree(int idx, int left, int right){
-        if(left == right){
-            segmentTree[idx]= nums[left];
-            return nums[left];
+    vector<int> st;
+    int build(int idx, int i, int j){
+        if(i==j){
+            st[idx]= nums[i];
+            return st[idx];
         }
-
-        int rv= buildTree(idx*2+1, left, (left+right)/2) + buildTree(idx*2+2, (left+right)/2 +1, right);
-        segmentTree[idx]= rv;
-        return rv;
+        int mid= (i+j)/2;
+        int v= build(2*idx+1, i, mid);
+        v+= build(2*idx+2, mid+1, j);
+        st[idx]= v;
+        return v;
     }
     NumArray(vector<int>& nums) {
+        this->nums = nums;
         int n= nums.size();
-        this->nums= nums;
-        segmentTree=vector<int>(4*n, 0);
-        buildTree(0, 0, n-1);
+        st.resize(4*n);
+        build(0, 0, n-1);
     }
-    void updateTree (int idx, int diff, int i, int left, int right){
-        // if(left > right) return;
-        if(idx < left || idx > right) return;
-
-        segmentTree[i] += diff;
-        if(left == right) return;
-        updateTree(idx, diff, 2*i+1, left, (right+left)/2);
-        updateTree(idx, diff, 2*i+2, (left+right)/2 +1, right);
-    }
-    void update(int index, int val) {
-        int diff= val- nums[index];
-        nums[index] = val;
-        updateTree(index, diff, 0, 0, nums.size()-1);
-    }
-    int query(int idx, int l, int r, int left, int right){
-        if(left > r || right < l) return 0;
-        if(l>= left && r<= right) {
-            return segmentTree[idx];
+    int index, val;
+    void up(int idx, int i, int j){
+        if(i==j){
+            // cout<<idx<<" "<<i<<" "<<j<<endl;
+            st[idx]= val;
+            nums[index]= val;
+            return;
         }
 
-        return query(idx*2+1, l, (r+l)/2, left, right) + query(idx*2+2, (l+r)/2+1, r, left,right);
+        int mid= (i+j)/2;
+        if(index<=mid){
+            up(2*idx+1, i, mid);
+        }
+        else{
+            up(2*idx+2, mid+1, j);
+        }
+
+        st[idx]= st[2*idx+1]+st[2*idx+2];
     }
-    int sumRange(int left, int right) {
-        return query(0, 0, nums.size()-1, left, right);
+    void update(int index, int val) {
+        this->index= index, this->val= val;
+        up(0, 0, nums.size()-1);
+    }
+    int left, right;
+    int query(int idx, int i, int j){
+        if(left<= i && j<=right) return st[idx];
+        if(right < i || left> j) return 0;
+
+        int mid= (i+j)/2;
+        return query(2*idx+1, i, mid)+ query(2*idx+2, mid+1, j);
+    }
+    int sumRange(int left, int right) { 
+        this->left= left, this->right= right;
+        return query(0, 0, nums.size()-1);
     }
 };
 
