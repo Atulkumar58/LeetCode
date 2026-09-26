@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Atulkumar58/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Atulkumar58/LeetCode/tree/master/0056-merge-intervals) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Atulkumar58/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Atulkumar58/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0140-word-break-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -450,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Atulkumar58/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/Atulkumar58/LeetCode/tree/master/0174-dungeon-game) |
 | [0233-number-of-digit-one](https://github.com/Atulkumar58/LeetCode/tree/master/0233-number-of-digit-one) |
