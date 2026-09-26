@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/Atulkumar58/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/Atulkumar58/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Atulkumar58/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Atulkumar58/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Atulkumar58/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Atulkumar58/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/Atulkumar58/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/Atulkumar58/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Atulkumar58/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Atulkumar58/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Atulkumar58/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Atulkumar58/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -523,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0827-making-a-large-island](https://github.com/Atulkumar58/LeetCode/tree/master/0827-making-a-large-island) |
 | [0968-binary-tree-cameras](https://github.com/Atulkumar58/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1306-jump-game-iii](https://github.com/Atulkumar58/LeetCode/tree/master/1306-jump-game-iii) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Atulkumar58/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Atulkumar58/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Atulkumar58/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
