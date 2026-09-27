@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/Atulkumar58/LeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atulkumar58/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/Atulkumar58/LeetCode/tree/master/0679-24-game) |
+| [0720-longest-word-in-dictionary](https://github.com/Atulkumar58/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0731-my-calendar-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0827-making-a-large-island](https://github.com/Atulkumar58/LeetCode/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/Atulkumar58/LeetCode/tree/master/0835-image-overlap) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Atulkumar58/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Atulkumar58/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0720-longest-word-in-dictionary](https://github.com/Atulkumar58/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0874-walking-robot-simulation](https://github.com/Atulkumar58/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Atulkumar58/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1096-brace-expansion-ii](https://github.com/Atulkumar58/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Atulkumar58/LeetCode/tree/master/0056-merge-intervals) |
 | [0406-queue-reconstruction-by-height](https://github.com/Atulkumar58/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Atulkumar58/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0720-longest-word-in-dictionary](https://github.com/Atulkumar58/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1096-brace-expansion-ii](https://github.com/Atulkumar58/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Atulkumar58/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Atulkumar58/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -421,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Atulkumar58/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/Atulkumar58/LeetCode/tree/master/0481-magical-string) |
 | [0640-solve-the-equation](https://github.com/Atulkumar58/LeetCode/tree/master/0640-solve-the-equation) |
+| [0720-longest-word-in-dictionary](https://github.com/Atulkumar58/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0796-rotate-string](https://github.com/Atulkumar58/LeetCode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Atulkumar58/LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -569,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0140-word-break-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Atulkumar58/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0720-longest-word-in-dictionary](https://github.com/Atulkumar58/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Atulkumar58/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Atulkumar58/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
