@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Atulkumar58/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Atulkumar58/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Atulkumar58/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Atulkumar58/LeetCode/tree/master/2751-robot-collisions) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Atulkumar58/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -438,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-longest-happy-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Atulkumar58/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Atulkumar58/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1871-jump-game-vii](https://github.com/Atulkumar58/LeetCode/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/Atulkumar58/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Atulkumar58/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -877,6 +879,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Minimax
 |  |
 | ------- |
