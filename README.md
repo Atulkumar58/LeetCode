@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/Atulkumar58/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Atulkumar58/LeetCode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Atulkumar58/LeetCode/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/Atulkumar58/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/Atulkumar58/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Atulkumar58/LeetCode/tree/master/0292-nim-game) |
@@ -480,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Atulkumar58/LeetCode/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atulkumar58/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0140-word-break-ii) |
@@ -819,6 +821,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Atulkumar58/LeetCode/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Atulkumar58/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
