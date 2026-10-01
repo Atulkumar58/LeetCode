@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Atulkumar58/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Atulkumar58/LeetCode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3878-count-good-subarrays](https://github.com/Atulkumar58/LeetCode/tree/master/3878-count-good-subarrays) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Atulkumar58/LeetCode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Atulkumar58/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Atulkumar58/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Atulkumar58/LeetCode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -692,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-jump-game-vii](https://github.com/Atulkumar58/LeetCode/tree/master/1871-jump-game-vii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Atulkumar58/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Atulkumar58/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Atulkumar58/LeetCode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Enumeration
 |  |
 | ------- |
