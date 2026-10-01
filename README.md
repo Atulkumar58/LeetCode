@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Atulkumar58/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+| [3115-maximum-prime-difference](https://github.com/Atulkumar58/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Atulkumar58/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3187-peaks-in-array](https://github.com/Atulkumar58/LeetCode/tree/master/3187-peaks-in-array) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Atulkumar58/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/Atulkumar58/LeetCode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Atulkumar58/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Atulkumar58/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3115-maximum-prime-difference](https://github.com/Atulkumar58/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Atulkumar58/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Atulkumar58/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -700,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-largest-component-size-by-common-factor](https://github.com/Atulkumar58/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1492-the-kth-factor-of-n](https://github.com/Atulkumar58/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Atulkumar58/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3115-maximum-prime-difference](https://github.com/Atulkumar58/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Atulkumar58/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -1057,4 +1060,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Atulkumar58/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/Atulkumar58/LeetCode/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
