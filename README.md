@@ -550,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Atulkumar58/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2463-minimum-total-distance-traveled](https://github.com/Atulkumar58/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Atulkumar58/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Atulkumar58/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Atulkumar58/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Atulkumar58/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -607,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Atulkumar58/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Atulkumar58/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Atulkumar58/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Atulkumar58/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/Atulkumar58/LeetCode/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Atulkumar58/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -678,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Atulkumar58/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Atulkumar58/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Atulkumar58/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Atulkumar58/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Matrix
@@ -855,6 +858,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Atulkumar58/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Atulkumar58/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2685-count-the-number-of-complete-components](https://github.com/Atulkumar58/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Atulkumar58/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
