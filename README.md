@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Atulkumar58/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Atulkumar58/LeetCode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Atulkumar58/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Atulkumar58/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Atulkumar58/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -408,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Atulkumar58/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0307-range-sum-query-mutable](https://github.com/Atulkumar58/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Atulkumar58/LeetCode/tree/master/0493-reverse-pairs) |
