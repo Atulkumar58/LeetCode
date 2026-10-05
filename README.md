@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/Atulkumar58/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Atulkumar58/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Atulkumar58/LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Atulkumar58/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -470,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Atulkumar58/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0720-longest-word-in-dictionary](https://github.com/Atulkumar58/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0796-rotate-string](https://github.com/Atulkumar58/LeetCode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Atulkumar58/LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Atulkumar58/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -965,6 +967,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Atulkumar58/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Atulkumar58/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Atulkumar58/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
