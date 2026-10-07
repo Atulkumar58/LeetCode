@@ -466,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Atulkumar58/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0140-word-break-ii) |
 | [0214-shortest-palindrome](https://github.com/Atulkumar58/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Atulkumar58/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/Atulkumar58/LeetCode/tree/master/0481-magical-string) |
 | [0640-solve-the-equation](https://github.com/Atulkumar58/LeetCode/tree/master/0640-solve-the-equation) |
@@ -667,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Atulkumar58/LeetCode/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Atulkumar58/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Atulkumar58/LeetCode/tree/master/0463-island-perimeter) |
 | [0743-network-delay-time](https://github.com/Atulkumar58/LeetCode/tree/master/0743-network-delay-time) |
@@ -952,6 +954,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/Atulkumar58/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Atulkumar58/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Atulkumar58/LeetCode/tree/master/0679-24-game) |
 | [0797-all-paths-from-source-to-target](https://github.com/Atulkumar58/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
