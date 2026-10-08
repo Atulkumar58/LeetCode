@@ -328,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0233-number-of-digit-one](https://github.com/Atulkumar58/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/Atulkumar58/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Atulkumar58/LeetCode/tree/master/0292-nim-game) |
+| [0390-elimination-game](https://github.com/Atulkumar58/LeetCode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Atulkumar58/LeetCode/tree/master/0486-predict-the-winner) |
 | [0640-solve-the-equation](https://github.com/Atulkumar58/LeetCode/tree/master/0640-solve-the-equation) |
 | [0679-24-game](https://github.com/Atulkumar58/LeetCode/tree/master/0679-24-game) |
@@ -905,6 +906,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/Atulkumar58/LeetCode/tree/master/0233-number-of-digit-one) |
+| [0390-elimination-game](https://github.com/Atulkumar58/LeetCode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Atulkumar58/LeetCode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atulkumar58/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
