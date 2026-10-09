@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Atulkumar58/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Atulkumar58/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Atulkumar58/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Atulkumar58/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Atulkumar58/LeetCode/tree/master/2751-robot-collisions) |
@@ -494,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-longest-happy-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Atulkumar58/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Atulkumar58/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Atulkumar58/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1871-jump-game-vii](https://github.com/Atulkumar58/LeetCode/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/Atulkumar58/LeetCode/tree/master/1927-sum-game) |
@@ -585,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Atulkumar58/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Atulkumar58/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Atulkumar58/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Atulkumar58/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Atulkumar58/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Atulkumar58/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/Atulkumar58/LeetCode/tree/master/1927-sum-game) |
@@ -985,6 +988,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atulkumar58/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Atulkumar58/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Atulkumar58/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atulkumar58/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Atulkumar58/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Minimax
