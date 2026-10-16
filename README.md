@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/Atulkumar58/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atulkumar58/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Atulkumar58/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Atulkumar58/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Atulkumar58/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Atulkumar58/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2540-minimum-common-value](https://github.com/Atulkumar58/LeetCode/tree/master/2540-minimum-common-value) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atulkumar58/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Atulkumar58/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Atulkumar58/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Atulkumar58/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -824,6 +826,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atulkumar58/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0731-my-calendar-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0731-my-calendar-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Atulkumar58/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Atulkumar58/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Atulkumar58/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3187-peaks-in-array](https://github.com/Atulkumar58/LeetCode/tree/master/3187-peaks-in-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
@@ -845,6 +848,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0406-queue-reconstruction-by-height](https://github.com/Atulkumar58/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/Atulkumar58/LeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Atulkumar58/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Atulkumar58/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Atulkumar58/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3187-peaks-in-array](https://github.com/Atulkumar58/LeetCode/tree/master/3187-peaks-in-array) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/Atulkumar58/LeetCode/tree/master/3515-shortest-path-in-a-weighted-tree) |
