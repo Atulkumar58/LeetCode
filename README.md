@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Atulkumar58/LeetCode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3878-count-good-subarrays](https://github.com/Atulkumar58/LeetCode/tree/master/3878-count-good-subarrays) |
 | [3886-sum-of-sortable-integers](https://github.com/Atulkumar58/LeetCode/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Atulkumar58/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Atulkumar58/LeetCode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Hash Table
 |  |
