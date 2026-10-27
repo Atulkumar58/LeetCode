@@ -378,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/Atulkumar58/LeetCode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Atulkumar58/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2409-count-days-spent-together](https://github.com/Atulkumar58/LeetCode/tree/master/2409-count-days-spent-together) |
+| [2928-distribute-candies-among-children-i](https://github.com/Atulkumar58/LeetCode/tree/master/2928-distribute-candies-among-children-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Atulkumar58/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3115-maximum-prime-difference](https://github.com/Atulkumar58/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Atulkumar58/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -827,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1291-sequential-digits](https://github.com/Atulkumar58/LeetCode/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Atulkumar58/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2928-distribute-candies-among-children-i](https://github.com/Atulkumar58/LeetCode/tree/master/2928-distribute-candies-among-children-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Atulkumar58/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atulkumar58/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Atulkumar58/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -945,6 +947,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Atulkumar58/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2928-distribute-candies-among-children-i](https://github.com/Atulkumar58/LeetCode/tree/master/2928-distribute-candies-among-children-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Atulkumar58/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/Atulkumar58/LeetCode/tree/master/3395-subsequences-with-a-unique-middle-mode-i) |
