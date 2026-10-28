@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/Atulkumar58/LeetCode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Atulkumar58/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/Atulkumar58/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/Atulkumar58/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Atulkumar58/LeetCode/tree/master/0198-house-robber) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Atulkumar58/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Atulkumar58/LeetCode/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Atulkumar58/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0219-contains-duplicate-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Atulkumar58/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Atulkumar58/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/Atulkumar58/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Atulkumar58/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Atulkumar58/LeetCode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/Atulkumar58/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0233-number-of-digit-one](https://github.com/Atulkumar58/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/Atulkumar58/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Atulkumar58/LeetCode/tree/master/0292-nim-game) |
@@ -726,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Atulkumar58/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/Atulkumar58/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Atulkumar58/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Atulkumar58/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -1199,10 +1203,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Atulkumar58/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Atulkumar58/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Atulkumar58/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Atulkumar58/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Primality Test
 |  |
