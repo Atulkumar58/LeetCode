@@ -575,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Atulkumar58/LeetCode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Atulkumar58/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Atulkumar58/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Atulkumar58/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -935,6 +936,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Atulkumar58/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Atulkumar58/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Graph Theory
 |  |
 | ------- |
@@ -958,6 +960,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-count-the-number-of-complete-components](https://github.com/Atulkumar58/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Atulkumar58/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Atulkumar58/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
@@ -967,6 +970,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Atulkumar58/LeetCode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Atulkumar58/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Atulkumar58/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Combinatorics
 |  |
 | ------- |
