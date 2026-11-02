@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0174-dungeon-game](https://github.com/Atulkumar58/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Atulkumar58/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Atulkumar58/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Atulkumar58/LeetCode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Atulkumar58/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0307-range-sum-query-mutable](https://github.com/Atulkumar58/LeetCode/tree/master/0307-range-sum-query-mutable) |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Atulkumar58/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Atulkumar58/LeetCode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Atulkumar58/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0204-count-primes](https://github.com/Atulkumar58/LeetCode/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/Atulkumar58/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/Atulkumar58/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Atulkumar58/LeetCode/tree/master/0292-nim-game) |
@@ -827,6 +829,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Atulkumar58/LeetCode/tree/master/0204-count-primes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Atulkumar58/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1492-the-kth-factor-of-n](https://github.com/Atulkumar58/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Atulkumar58/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -853,6 +856,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Atulkumar58/LeetCode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Atulkumar58/LeetCode/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Atulkumar58/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2928-distribute-candies-among-children-i](https://github.com/Atulkumar58/LeetCode/tree/master/2928-distribute-candies-among-children-i) |
@@ -1234,6 +1238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Atulkumar58/LeetCode/tree/master/0204-count-primes) |
 | [3115-maximum-prime-difference](https://github.com/Atulkumar58/LeetCode/tree/master/3115-maximum-prime-difference) |
 ## Bucket Sort
 |  |
@@ -1267,4 +1272,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Atulkumar58/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Atulkumar58/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Atulkumar58/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
