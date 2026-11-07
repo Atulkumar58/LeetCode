@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Atulkumar58/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Atulkumar58/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Atulkumar58/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1882-process-tasks-using-servers](https://github.com/Atulkumar58/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Atulkumar58/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Atulkumar58/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Atulkumar58/LeetCode/tree/master/2029-stone-game-ix) |
@@ -957,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/Atulkumar58/LeetCode/tree/master/0743-network-delay-time) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Atulkumar58/LeetCode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Atulkumar58/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/Atulkumar58/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Atulkumar58/LeetCode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Atulkumar58/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Atulkumar58/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
