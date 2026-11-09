@@ -1313,4 +1313,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1114-print-in-order](https://github.com/Atulkumar58/LeetCode/tree/master/1114-print-in-order) |
 | [1115-print-foobar-alternately](https://github.com/Atulkumar58/LeetCode/tree/master/1115-print-foobar-alternately) |
+| [1116-print-zero-even-odd](https://github.com/Atulkumar58/LeetCode/tree/master/1116-print-zero-even-odd) |
 <!---LeetCode Topics End-->
