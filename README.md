@@ -1317,4 +1317,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1115-print-foobar-alternately](https://github.com/Atulkumar58/LeetCode/tree/master/1115-print-foobar-alternately) |
 | [1116-print-zero-even-odd](https://github.com/Atulkumar58/LeetCode/tree/master/1116-print-zero-even-odd) |
 | [1117-building-h2o](https://github.com/Atulkumar58/LeetCode/tree/master/1117-building-h2o) |
+| [1195-fizz-buzz-multithreaded](https://github.com/Atulkumar58/LeetCode/tree/master/1195-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
