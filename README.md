@@ -1318,4 +1318,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1116-print-zero-even-odd](https://github.com/Atulkumar58/LeetCode/tree/master/1116-print-zero-even-odd) |
 | [1117-building-h2o](https://github.com/Atulkumar58/LeetCode/tree/master/1117-building-h2o) |
 | [1195-fizz-buzz-multithreaded](https://github.com/Atulkumar58/LeetCode/tree/master/1195-fizz-buzz-multithreaded) |
+| [1226-the-dining-philosophers](https://github.com/Atulkumar58/LeetCode/tree/master/1226-the-dining-philosophers) |
 <!---LeetCode Topics End-->
