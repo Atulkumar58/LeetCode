@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Atulkumar58/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Atulkumar58/LeetCode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Atulkumar58/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0307-range-sum-query-mutable](https://github.com/Atulkumar58/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Atulkumar58/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Atulkumar58/LeetCode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Atulkumar58/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0219-contains-duplicate-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Atulkumar58/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Atulkumar58/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Atulkumar58/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -468,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Atulkumar58/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Atulkumar58/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Atulkumar58/LeetCode/tree/master/0056-merge-intervals) |
+| [0229-majority-element-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Atulkumar58/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Atulkumar58/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Atulkumar58/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -765,6 +768,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Atulkumar58/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Atulkumar58/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/Atulkumar58/LeetCode/tree/master/2029-stone-game-ix) |
@@ -1333,4 +1337,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1117-building-h2o](https://github.com/Atulkumar58/LeetCode/tree/master/1117-building-h2o) |
 | [1195-fizz-buzz-multithreaded](https://github.com/Atulkumar58/LeetCode/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/Atulkumar58/LeetCode/tree/master/1226-the-dining-philosophers) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
