@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0827-making-a-large-island](https://github.com/Atulkumar58/LeetCode/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/Atulkumar58/LeetCode/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/Atulkumar58/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/Atulkumar58/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Atulkumar58/LeetCode/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/Atulkumar58/LeetCode/tree/master/0932-beautiful-array) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Atulkumar58/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Atulkumar58/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Atulkumar58/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0731-my-calendar-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0875-koko-eating-bananas](https://github.com/Atulkumar58/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atulkumar58/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atulkumar58/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Atulkumar58/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
