@@ -544,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Atulkumar58/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Atulkumar58/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/Atulkumar58/LeetCode/tree/master/2540-minimum-common-value) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Atulkumar58/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Atulkumar58/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Atulkumar58/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -601,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Atulkumar58/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Atulkumar58/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Atulkumar58/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Atulkumar58/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Atulkumar58/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Atulkumar58/LeetCode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -664,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-total-distance-traveled](https://github.com/Atulkumar58/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Atulkumar58/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Atulkumar58/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Atulkumar58/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Atulkumar58/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Atulkumar58/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
