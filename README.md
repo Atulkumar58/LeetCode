@@ -603,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Atulkumar58/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Atulkumar58/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Atulkumar58/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Atulkumar58/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Atulkumar58/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Atulkumar58/LeetCode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
