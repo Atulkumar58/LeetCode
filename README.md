@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Atulkumar58/LeetCode/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Atulkumar58/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/Atulkumar58/LeetCode/tree/master/3395-subsequences-with-a-unique-middle-mode-i) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Atulkumar58/LeetCode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Atulkumar58/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Atulkumar58/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Atulkumar58/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/Atulkumar58/LeetCode/tree/master/3395-subsequences-with-a-unique-middle-mode-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Atulkumar58/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atulkumar58/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2236-root-equals-sum-of-children](https://github.com/Atulkumar58/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Atulkumar58/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Atulkumar58/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/Atulkumar58/LeetCode/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Atulkumar58/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -616,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3136-valid-word](https://github.com/Atulkumar58/LeetCode/tree/master/3136-valid-word) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Atulkumar58/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Atulkumar58/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Atulkumar58/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Atulkumar58/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -746,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-count-the-number-of-complete-components](https://github.com/Atulkumar58/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Atulkumar58/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Atulkumar58/LeetCode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Atulkumar58/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/Atulkumar58/LeetCode/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Atulkumar58/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
