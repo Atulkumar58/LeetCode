@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1311-get-watched-videos-by-your-friends](https://github.com/Atulkumar58/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Atulkumar58/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Atulkumar58/LeetCode/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Atulkumar58/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Atulkumar58/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Atulkumar58/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -381,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0460-lfu-cache](https://github.com/Atulkumar58/LeetCode/tree/master/0460-lfu-cache) |
 | [0731-my-calendar-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1032-stream-of-characters](https://github.com/Atulkumar58/LeetCode/tree/master/1032-stream-of-characters) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Atulkumar58/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2069-walking-robot-simulation-ii](https://github.com/Atulkumar58/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Atulkumar58/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Math
@@ -411,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1015-smallest-integer-divisible-by-k](https://github.com/Atulkumar58/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Atulkumar58/LeetCode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Atulkumar58/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Atulkumar58/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Atulkumar58/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Atulkumar58/LeetCode/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Atulkumar58/LeetCode/tree/master/1486-xor-operation-in-an-array) |
@@ -870,6 +873,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/Atulkumar58/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atulkumar58/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Atulkumar58/LeetCode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Atulkumar58/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Atulkumar58/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Atulkumar58/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Atulkumar58/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1342,6 +1346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1032-stream-of-characters](https://github.com/Atulkumar58/LeetCode/tree/master/1032-stream-of-characters) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Atulkumar58/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Aho–Corasick Algorithm
 |  |
 | ------- |
