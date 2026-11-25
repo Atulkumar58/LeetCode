@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3878-count-good-subarrays](https://github.com/Atulkumar58/LeetCode/tree/master/3878-count-good-subarrays) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Atulkumar58/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Atulkumar58/LeetCode/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/Atulkumar58/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Atulkumar58/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Atulkumar58/LeetCode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Hash Table
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Atulkumar58/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Atulkumar58/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3934-smallest-unique-subarray](https://github.com/Atulkumar58/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Atulkumar58/LeetCode/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Simulation
 |  |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Atulkumar58/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Atulkumar58/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -947,12 +950,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/Atulkumar58/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Atulkumar58/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
+| [3934-smallest-unique-subarray](https://github.com/Atulkumar58/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Atulkumar58/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Atulkumar58/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Atulkumar58/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
+| [3934-smallest-unique-subarray](https://github.com/Atulkumar58/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1238,6 +1243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Atulkumar58/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
+| [3934-smallest-unique-subarray](https://github.com/Atulkumar58/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Prime Factorization
 |  |
 | ------- |
