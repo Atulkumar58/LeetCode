@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/Atulkumar58/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Atulkumar58/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2751-robot-collisions](https://github.com/Atulkumar58/LeetCode/tree/master/2751-robot-collisions) |
+| [3360-stone-removal-game](https://github.com/Atulkumar58/LeetCode/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Atulkumar58/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3597-partition-string](https://github.com/Atulkumar58/LeetCode/tree/master/3597-partition-string) |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/Atulkumar58/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Atulkumar58/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Atulkumar58/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/Atulkumar58/LeetCode/tree/master/3360-stone-removal-game) |
 | [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/Atulkumar58/LeetCode/tree/master/3395-subsequences-with-a-unique-middle-mode-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Atulkumar58/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Atulkumar58/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
